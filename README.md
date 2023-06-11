@@ -26,3 +26,4 @@
 
 # Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChSatyaSavith&show_icons=true&theme=tokyonight)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OneCodeMan)](https://github.com/anuraghazra/github-readme-stats)
