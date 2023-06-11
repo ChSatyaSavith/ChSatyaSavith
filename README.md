@@ -26,7 +26,7 @@
 
 <div align="center">
   
-  ## Connect with Me
+  ### Connect with Me
   [![ChSatyaSavith](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ch-satya-savith-99092423b/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ch.satyasavith23264@gmail.com)
   
