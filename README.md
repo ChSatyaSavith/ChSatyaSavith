@@ -23,3 +23,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+
+# Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChSatyaSavith&show_icons=true&theme=radical)
+
